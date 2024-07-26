@@ -1,1 +1,1 @@
-node:18.20.3-alpine
+vulhub/jenkins:2.441
