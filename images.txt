@@ -1,8 +1,7 @@
-vulhub/jenkins:2.441
+nginx:latest
 peiqipeiqi/peiqi_wiki:220420
 vulhub/minio:2023-02-27T18-10-45Z
 alpine:3.9
 vulhub/shiro:1.5.1
 vulhub/shiro:1.2.4
 vaultwarden/server:latest
-nginx:latest
