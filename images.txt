@@ -8,3 +8,4 @@ nginx:latest
 vulhub/xxl-job:2.2.0-admin
 vulhub/xxl-job:2.2.0-executor
 mysql:5.7
+sudo systemctl restart docker
