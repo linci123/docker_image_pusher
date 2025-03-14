@@ -8,4 +8,4 @@ nginx:latest
 vulhub/xxl-job:2.2.0-admin
 vulhub/xxl-job:2.2.0-executor
 mysql:5.7
-sudo systemctl restart docker
+debian:bullseye-slim@sha256:6344a6747740d465bff88e833e43ef881a8c4dd51950dba5b30664c93f74cbef
